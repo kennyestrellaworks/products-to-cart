@@ -13,9 +13,9 @@ In this project, I kinda explore something different. At the front-end, where th
 
 The UP ARROW and DOWN ARROW button will increase and decrease the quantity of the product. But, it'll not decrease if the user keeps pressing the decrease button while the quantity is 0. For this project, when the user clicks the UP ARROW button 1 time, the product is added to the cart with the quantity of 1, then the ADD TO CART button will change its text into IN CART, specifying that the product is added to the cart. Clicking the UP ARROW button again, when the product is already in the cart with the quantity of 1, the IN CART text will change to UPDATE CART, that means we can update the quantiy of that product in the cart.
 
-### Project Screenshot
-
 The user can click the SHOPPING CART button to see the products that are added to the cart. The CHECKOUT button doesn't do anything by the way. At the ealy stages of coding, I was using 'data.json' for the product details and later on, I put them in [Contentful](https://www.contentful.com/). I learned to use it after watching the [John Smilga's](https://www.youtube.com/c/CodingAddict/featured) [E-Commerce JavaScript Tutorial - Shopping Cart from Scratch](https://www.youtube.com/watch?v=023Psne_-_4) tutorial on [Freecodecamp](https://www.youtube.com/c/Freecodecamp).
+
+### Project Screenshot
 
 <br />
 
