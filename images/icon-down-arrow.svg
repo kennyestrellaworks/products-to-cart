@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="26" viewBox="0 0 24 26">
+  <g id="icon-down-arrow" transform="translate(-8550 2434)">
+    <g id="Group_175" data-name="Group 175" opacity="0">
+      <rect id="Rectangle_84" data-name="Rectangle 84" width="24" height="26" transform="translate(8550 -2434)" fill="#fff"/>
+      <rect id="Rectangle_85" data-name="Rectangle 85" width="20" height="18" transform="translate(8552 -2430)" fill="#d58484"/>
+    </g>
+    <path id="chevron-up" d="M106.618,171.475a1.428,1.428,0,0,1-1.012-.417L98.047,163.5l-7.559,7.559a1.427,1.427,0,1,1-2.018-2.018l8.571-8.571a1.423,1.423,0,0,1,2.018,0l8.571,8.571a1.426,1.426,0,0,1-1.012,2.434Z" transform="translate(8660.05 -2255.521) rotate(180)"/>
+  </g>
+</svg>

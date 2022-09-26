@@ -1,0 +1,12 @@
+@use 'colors';
+
+// Custom width
+$viewport-width: 192rem;
+$content-width: 120rem;
+
+// Transitions
+$transition-all-slower: all 0.3s;
+$transition-all-slowest: all 0.5s;
+
+// Box shadow
+$box-shadow1: 0px 0px 15px rgba(colors.$color-black, 0.2);

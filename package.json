@@ -1,0 +1,26 @@
+{
+  "name": "4-products-to-cart",
+  "version": "1.0.0",
+  "description": "A mini-project where we can click an item(s) and it'll be put to the cart.",
+  "main": "index.js",
+  "browserslist": "last 10 versions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watchSass": "sass --watch sass/style.scss:css/style.css",
+    "liveServer": "live-server",
+    "prefixCSS": "postcss css/style.css --use autoprefixer -b \"last 10 version\" -o css/style.prefix.css",
+    "uglifyCSS": "uglifycss css/style.prefix.css --output css/style.prefix.uglify.css",
+    "distCSS": "npm-run-all prefixCSS uglifyCSS",
+    "startDev": "npm-run-all --parallel watchSass liveServer"
+  },
+  "author": "Kenny Estrella",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "html-minifier": "^4.0.0",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.16",
+    "postcss-cli": "^10.0.0",
+    "uglifycss": "^0.0.29"
+  }
+}

@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "PublicSans Regular";
+    src: url("../fonts/PublicSans-Regular.eot");
+    src: url("../fonts/PublicSans-Regular.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/PublicSans-Regular.woff2") format("woff2"),
+        url("../fonts/PublicSans-Regular.woff") format("woff"),
+        url("../fonts/PublicSans-Regular.ttf") format("truetype"),
+        url("../fonts/PublicSans-Regular.svg#PublicSans_Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Roboto Slab Bold";
+    src: url("../fonts/Roboto-Slab-Bold.eot");
+    src: url("../fonts/Roboto-Slab-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/Roboto-Slab-Bold.woff2") format("woff2"),
+        url("../fonts/Roboto-Slab-Bold.woff") format("woff"),
+        url("../fonts/Roboto-Slab-Bold.ttf") format("truetype"),
+        url("../fonts/Roboto-Slab-Bold.svg#Roboto_Slab_Bold") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "TwCenMT Bold";
+    src: url("../fonts/TwCenMT-Bold.eot");
+    src: url("../fonts/TwCenMT-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/TwCenMT-Bold.woff2") format("woff2"),
+        url("../fonts/TwCenMT-Bold.woff") format("woff"),
+        url("../fonts/TwCenMT-Bold.ttf") format("truetype"),
+        url("../fonts/TwCenMT-Bold.svg#TwCenMT_Bold") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "TwCenMT Regular";
+    src: url("../fonts/TwCenMT-Regulareot");
+    src: url("../fonts/TwCenMT-Regulareot?#iefix") format("embedded-opentype"),
+        url("../fonts/TwCenMT-Regularwoff2") format("woff2"),
+        url("../fonts/TwCenMT-Regularwoff") format("woff"),
+        url("../fonts/TwCenMT-Regularttf") format("truetype"),
+        url("../fonts/TwCenMT-Regularsvg#TwCenMT_Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+$font-publicsans-regular: 'PublicSans Regular', sans-serif;
+$font-roboto-slab-bold: 'Roboto Slab Bold', sans-serif;
+$font-twcenmt-bold: 'TwCenMT Bold', sans-serif;
+$font-twcenmt-regular: 'TwCenMT Bold', sans-serif;

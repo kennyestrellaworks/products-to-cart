@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="26" viewBox="0 0 24 26">
+  <g id="icon-close" transform="translate(-8509 2491)">
+    <g id="Group_177" data-name="Group 177" opacity="0">
+      <rect id="Rectangle_80" data-name="Rectangle 80" width="24" height="26" transform="translate(8509 -2491)" fill="#fff"/>
+      <rect id="Rectangle_83" data-name="Rectangle 83" width="20" height="18" transform="translate(8511 -2487)" fill="#d58484"/>
+    </g>
+    <path id="close" d="M131.2,128.958l6.285-6.285a1.589,1.589,0,0,0-2.245-2.249l-6.285,6.285-6.285-6.285a1.591,1.591,0,0,0-2.249,2.249l6.285,6.285-6.285,6.285a1.591,1.591,0,0,0,2.249,2.249l6.285-6.285,6.285,6.285a1.591,1.591,0,0,0,2.249-2.249Z" transform="translate(8392.042 -2606.958)"/>
+  </g>
+</svg>

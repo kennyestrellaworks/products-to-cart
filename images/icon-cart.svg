@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="26" viewBox="0 0 24 26">
+  <g id="icon-cart" transform="translate(-8485 2438)">
+    <g id="Group_173" data-name="Group 173" opacity="0">
+      <rect id="Rectangle_86" data-name="Rectangle 86" width="24" height="26" transform="translate(8485 -2438)" fill="#fff"/>
+      <rect id="Rectangle_87" data-name="Rectangle 87" width="20" height="18" transform="translate(8487 -2434)" fill="#d58484"/>
+    </g>
+    <g id="cart" transform="translate(8455 -2498)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="1.487" cy="1.487" r="1.487" transform="translate(37.206 78.875)"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.487" cy="1.487" r="1.487" transform="translate(47.618 78.875)"/>
+      <path id="Path_5" data-name="Path 5" d="M51.746,66.639a1.112,1.112,0,0,0-.863-.408H36.736l-.285-1.617A.744.744,0,0,0,35.719,64H32.744a.744.744,0,1,0,0,1.487h2.351l2.122,12.029a.744.744,0,0,0,.733.615h11.9a.744.744,0,0,0,0-1.487H38.574l-.262-1.487H49.545a1.119,1.119,0,0,0,1.1-.9l1.339-6.694A1.116,1.116,0,0,0,51.746,66.639Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

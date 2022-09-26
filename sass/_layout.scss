@@ -1,0 +1,19 @@
+@use 'variables';
+
+.wrap {
+    &__screen {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }    
+    &__viewport {
+        width: variables.$viewport-width; // 1920px limit.
+        // background-color: tan;
+    }
+    &__content {
+        position: relative;
+        max-width: variables.$content-width; // Decided website content limit.
+        // background-color: aqua;
+        margin: 0 auto;
+    }
+}
