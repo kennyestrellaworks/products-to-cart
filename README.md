@@ -24,4 +24,7 @@ The user can click the SHOPPING CART button to see the products that are added t
 Live Site URL: [Live Demo](https://kennyestrellaworks-products-to-cart.netlify.app/)
 
 ### Used technologies
-<img width="22px" src="html5-plain.svg"> <img width="22px" src="sass-original.svg"> <img width="22px" src="javascript-original.svg"> <img width="22px" src="npm-original-wordmark.svg">
+<img width="22px" src="html5-plain.svg"> <img width="22px" src="css3-plain.svg"> <img width="22px" src="sass-original.svg"> <img width="22px" src="javascript-original.svg"> <img width="22px" src="npm-original-wordmark.svg">
+
+###  Used tools
+<img width="22px" src="xd-plain.svg"> <img width="22px" src="photoshop-plain.svg">
